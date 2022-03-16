@@ -1,0 +1,30 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.appMessage {
+  color: #222;
+  font-family: ProximaNova, Helvetica, Arial;
+  font-size: 18px;
+  text-align: center;
+}
+.errorMessage {
+  color: #B81B10;
+  font-family: ProximaNova, Helvetica, Arial;
+  font-size: 18px;
+  text-align: center;
+}
